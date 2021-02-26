@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>橘子园</title>
+  <title>街角咖啡</title>
   <icon>http://example.com/icon.png</icon>
   
   <link href="http://example.com/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>采橘人</name>
+    <name>hmomeng</name>
     
   </author>
   
@@ -41,7 +41,7 @@
     <updated>2020-12-31T16:00:00.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;总是埋怨之前为什么不努力，那为什么不在现在努力一把呢&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;愿你走出半生，归来仍是少年&lt;/p&gt;</summary>
     
     
     
